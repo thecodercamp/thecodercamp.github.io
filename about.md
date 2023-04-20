@@ -25,7 +25,7 @@ Senior software engineer, software architect and technology entusiast. Started w
 My first interaction with programming was back in 2008 with VB6 implementing `shell` extensions for Windows Explorer, `ActiveX plugins` for IE and figuring out how `Windows Registry` works.
 
 For the past years I've worked most of the time with Microsoft technologies:
-- C# :heart:
+- C# 💙
 - VB.NET
 - TypeScript
 - PowerShell
@@ -35,9 +35,9 @@ For the past years I've worked most of the time with Microsoft technologies:
 - Microsoft IIS
 - Microsoft SQL Server
 - WPF
-- Silverlight :skull:
+- Silverlight 💀
 
-But I really couldn't stay away from the rest of them :nerd_face: so I have experience with a variety of 
+But I really couldn't stay away from the rest of them 🤓 so I have experience with a variety of 
 
 - **Programming languages:** JavaScript, Java, Go, Haskell, Python, PHP, Lua, C++, ActionScript :skull:
 
@@ -45,5 +45,5 @@ But I really couldn't stay away from the rest of them :nerd_face: so I have expe
 
 - **Open standards:** OOXML, PDF, OAuth2, OIDC, SOAP, WSDL, OpenAPI, RDF, OWL, Semantic Web, SPARQL, XML, XSLT
 
-- **Architecture styles:** Monolithic, Layered, Micro-services, Event-driven, Service-Oriented, Pub-Sub
+- **Architecture styles:** Monolithic, Layered, Micro-services, Event-driven, Service-Oriented
 
