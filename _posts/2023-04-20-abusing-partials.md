@@ -4,7 +4,7 @@ date: 2023-04-20 01:00:00
 layout: post
 ---
 
-Even those most of the developers I've talked to know about the `partial` keyword I have rarely seen it used in projects. 
+Even those most developers I've talked to know about the `partial` keyword I have rarely seen it used in projects. 
 For those who don't know about it, the `partial` keyword allows you to split the functionality across multiple files with some restrictions:
 - all the partial pieces need to be in the same assembly
 - all the partial pieces need to be in the same namespace
