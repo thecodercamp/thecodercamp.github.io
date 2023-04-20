@@ -1,10 +1,11 @@
 ---
-title: "The partial keywords in C# and ways to make use of it"
+title: "The partial keyword in C# and ways to make use of it"
 date: 2023-04-20 01:00:00
 layout: post
 ---
 
-Even though most developers I've talked to know about the `partial` keyword I have rarely seen it used in projects. 
+Even though most developers I've talked to know about the `partial` keyword, I have rarely seen it used in projects. 
+
 For those who don't know about it, the `partial` keyword allows you to split the functionality across multiple files with some restrictions:
 - all the partial pieces need to be in the same assembly
 - all the partial pieces need to be in the same namespace
