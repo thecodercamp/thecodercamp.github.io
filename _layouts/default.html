@@ -35,7 +35,7 @@
 {% endif %}
 
 <header style="padding-top:8px; padding-bottom:8px">
-  <a href="{{ "/" | relative_url }}" class="title"><img src="{{site.logo}}" style="height: 2.5em;vertical-align: middle;" />{{ site.title | escape }}</a>
+  <a href="{{ "/" | relative_url }}" class="title"><img alt="{{site.title | escape}}" src="{{site.logo}}" style="height: 2.5em;vertical-align: middle;" /><span>{{ site.title | escape }}</span></a>
   {% include menu.html menu=pages %}
 </header>
 
