@@ -56,6 +56,7 @@ By relying on 2 features from VS Code or Visual Studio we can increase the reada
 First, we mark the class as partial so we can spread each method in its own file. Second, we rely on `file nesting` to group the files together into 1 nice hierarchy
 
 The end result looks like this:
+
 ![File nested partial classes](/assets/image_filenesting_partial_classes.png)
   
 ### Usage 2: Separating your contract attributes from the rest of the code
@@ -65,4 +66,5 @@ While this is annoying to do for every single class, it can be beneficial for th
 Again we rely on `file nesting` and create a file called `MyController.cs` and one called `MyController.Implementation.cs` and we define partial methods in the main class with their attributes and we keep the code in the implementation class
 
 The end result looks like this:
+
 ![Partial class contract separation](/assets/image_contractseparating_partial_classes.png)
