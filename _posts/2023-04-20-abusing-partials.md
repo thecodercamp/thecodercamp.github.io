@@ -1,5 +1,6 @@
 ---
 title: "The `partial` keywords in `C#` and ways to make use of it"
+date: 2023-04-20 01:00:00
 layout: post
 ---
 
