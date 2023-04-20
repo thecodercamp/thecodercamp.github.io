@@ -7,7 +7,7 @@ permalink: /about/
 ## 🤓 Myself
 Born in the 90s in Iasi (Romania) moved to Bucharest to go to college and got my first job in `2011`
 
-My hobies include: reading :books: (:skull::superhero::ghost::clown_face::cowboy_hat_face:) - love me some whitepapers :page_facing_up: - as well as swimming 🏊  biking 🚲  theatre 🎭  movies 🎦  and anything nature 🏕️ 
+My hobies include: reading 📚 (💀 🦸 👻 🤡 🤠) - love me some whitepapers 📄 - as well as swimming 🏊  biking 🚲  theatre 🎭  movies 🎦  and anything nature 🏕️ 
 
 - Favorite authors: [Stephen King](https://stephenking.com/), [Joe Hill](https://www.joehillfiction.com/), [Franz Kafka](https://www.goodreads.com/author/show/5223.Franz_Kafka), [Douglas Adams](https://www.goodreads.com/author/show/4.Douglas_Adams)
 
